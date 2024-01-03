@@ -1,0 +1,1546 @@
+[{   "Name": "Creme De Cacao",
+    "Count": 10,
+    "Drinks": ["Poppy Cocktail", "Brandy Alexander", "Chocolate Monkey", "Foxy Lady", "Orgasm", "The Evil Blue Thing", "Almond Joy", "Alexander", "Grasshopper", "'57 Chevy With A White License Plate"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Vodka",
+    "Count": 88,
+    "Drinks": ["Harvey Wallbanger", "3-mile Long Island Iced Tea", "Pink Penocha", "501 Blue", "Caribbean Orange Liqueur", "Espresso Martini", "Atlantic Sun", "Cherry Electric Lemonade", "Homemade Kahlua", "Dirty Martini", "'57 Chevy With A White License Plate", "Godmother", "Sex On The Beach", "A Midsummernight Dream", "Angelica Liqueur", "Kool-aid Shot", "Orange Whip", "Screaming Orgasm", "Kamikaze", "Zorbatini", "Belgian Blue", "Victory Collins", "Bruised Heart", "French Martini", "Jello Shots", "Vodka Martini", "Chocolate Black Russian", "Atomic Lokade", "Arizona Twister", "Irish Russian", "Black Forest Shake", "Vodka Russian", "White Russian", "Vodka And Tonic", "Freddy Kruger", "Aztec Punch", "Cosmopolitan Martini", "Absinthe #2", "Screwdriver", "Sea Breeze", "Irish Curdling Cow", "Blue Lagoon", "Vodka Fizz", "Orange Crush", "A Gilligan's Island", "Oreo Mudslide", "Butter Baby", "Long Vodka", "Shark Attack", "Vesper", "Ice Pick #1", "Black Russian", "Gideon's Green Dinosaur", "Moscow Mule", "Flaming Dr. Pepper", "Popped Cherry", "155 Belmont", "San Francisco", "Apricot Punch", "Radioactive Long Island Iced Tea", "Zipperhead", "Addison Special", "Orgasm", "Adam Sunrise", "After Sex", "Adam Bomb", "Long Island Tea", "National Aquarium", "Long Island Iced Tea", "Kool-aid Slammer", "Bubble Gum", "Pink Panty Pulldowns", "Coffee-vodka", "Russian Spring Punch", "Godchild", "Arizona Antifreeze", "A.d.m. (after Dinner Mint)", "Autodaf\u00e9", "Bellini Martini", "Coffee Liqueur", "Absolutely Fabulous", "Bloody Mary", "Brain Fart", "Jitterbug", "Army Special", "Blue Mountain", "Arctic Fish", "Avalon"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Absolut Kurant",
+    "Count": 3,
+    "Drinks": ["Absolut Sex", "Kurant Tea", "1-900-fuk-meup"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Grand Marnier",
+    "Count": 10,
+    "Drinks": ["B-52", "New York Lemonade", "Alice In Wonderland", "1-900-fuk-meup", "50/50", "Talos Coffee", "Arthur Tompkins", "B-53", "Surf City Lifesaver", "A1"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Chambord Raspberry Liqueur",
+    "Count": 8,
+    "Drinks": ["Radioactive Long Island Iced Tea", "Royal Flush", "Zipperhead", "Bruised Heart", "1-900-fuk-meup", "Zima Blaster", "Mocha-berry", "Jam Donut"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Midori Melon Liqueur",
+    "Count": 10,
+    "Drinks": ["Zimadori Zinger", "Radioactive Long Island Iced Tea", "Amaretto Sweet & Sour", "1-900-fuk-meup", "Arizona Antifreeze", "Quick F**k", "Absolut Sex", "A Splash Of Nash", "Applejack", "Bob Marley"],
+    "Category": "Alcoholic"
+
+  }, {
+    "Name": "Malibu Rum",
+    "Count": 9,
+    "Drinks": ["151 Florida Bushwacker", "Radioactive Long Island Iced Tea", "Arizona Twister", "1-900-fuk-meup", "Rum Runner", "Apple Pie With A Crust", "Space Odyssey", "Grand Blue", "Malibu Twister"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Amaretto",
+    "Count": 39,
+    "Drinks": ["A Day At The Beach", "Alice In Wonderland", "Abc", "Amaretto Shake", "French Connection", "Grizzly Bear", "A True Amaretto Sour", "Amaretto Sunset", "Chocolate Milk", "Alabama Slammer", "Texas Sling", "Amaretto Stone Sour #3", "Amaretto Mist", "Red Snapper", "Amaretto Stinger", "Amaretto Tea", "Flaming Dr. Pepper", "Zippy's Revenge", "Amaretto Rose", "Amaretto Sunrise", "Godchild", "Godmother", "Kool-aid Shot", "Almond Joy", "Godfather", "A Piece Of Ass", "Amaretto Sweet & Sour", "1-900-fuk-meup", "Scooter", "Foxy Lady", "Amaretto And Cream", "Orgasm", "Lunch Box", "Almond Chocolate Coffee", "Amaretto Stone Sour", "Jackhammer", "Amaretto Sour", "Turkeyball", "Tennesee Mud"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Cranberry Juice",
+    "Count": 23,
+    "Drinks": ["A Gilligan's Island", "Bruised Heart", "Pink Penocha", "Ruby Tuesday", "A Splash Of Nash", "Royal Flush", "Affair", "Bleeding Surgeon", "Red Snapper", "Popped Cherry", "Malibu Twister", "Absolutely Cranberry Smash", "Absolut Stress #2", "Sex On The Beach", "Cranberry Punch", "Kool-aid Shot", "Absolut Sex", "Absolutely Fabulous", "Cosmopolitan Martini", "Rum Runner", "Sea Breeze", "1-900-fuk-meup", "Cosmopolitan"],
+    "Category": "Juice"
+  }, {
+    "Name": "Pineapple Juice",
+    "Count": 25,
+    "Drinks": ["Algonquin", "Bora Bora", "French Martini", "Wine Punch", "Havana Cocktail", "Sunny Holiday Punch", "Mary Pickford", "Grass Skirt", "Arizona Twister", "Pysch Vitamin Light", "Hawaiian Cocktail", "Alfie Cocktail", "Aloha Fruit Punch", "Absolut Stress #2", "Cranberry Punch", "Planter's Punch", "Barracuda", "Afterglow", "Rum Runner", "Amaretto Sweet & Sour", "1-900-fuk-meup", "Alice Cocktail", "Space Odyssey", "Turkeyball", "Waikiki Beachcomber"],
+    "Category": "Juice"
+  }, {
+    "Name": "Lager",
+    "Count": 6,
+    "Drinks": ["Snake Bite (uk)", "Campari Beer", "Green Goblin", "Snakebite And Black", "Diesel", "110 In The Shade"],
+    "Category": "Beer"
+  }, {
+    "Name": "Tequila",
+    "Count": 24,
+    "Drinks": ["Adam Bomb", "Long Island Tea", "Blue Margarita", "3-mile Long Island Iced Tea", "Long Island Iced Tea", "Strawberry Margarita", "Gideon's Green Dinosaur", "Tommy's Margarita", "110 In The Shade", "Amaretto Stone Sour #3", "Apple Grande", "Whitecap Margarita", "Cherry Electric Lemonade", "Downshift", "Bloody Maria", "Tequila Sunrise", "Tequila Sour", "Tequila Surprise", "Radioactive Long Island Iced Tea", "Moranguito", "Brave Bull Shooter", "Vampiro", "Margarita", "Tequila Fizz"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Light Rum",
+    "Count": 43,
+    "Drinks": ["Long Island Tea", "Egg Nog #4", "A Night In Old Mandalay", "Mississippi Planters Punch", "Daiquiri", "Havana Cocktail", "3-mile Long Island Iced Tea", "Long Island Iced Tea", "Frozen Daiquiri", "Jamaica Kiss", "Quaker's Cocktail", "Mary Pickford", "Mai Tai", "151 Florida Bushwacker", "Strawberry Daiquiri", "Caribbean Boilermaker", "Frozen Mint Daiquiri", "Shanghai Cocktail", "Bacardi Cocktail", "Pina Colada", "Vesuvio", "Rum Milk Punch", "Rum Sour", "A Furlong Too Late", "Boston Sidecar", "Cranberry Cordial", "Quarter Deck Cocktail", "155 Belmont", "Rum Screwdriver", "Banana Daiquiri", "Acapulco", "The Evil Blue Thing", "Monkey Wrench", "Between The Sheets", "Van Vleet", "Chicago Fizz", "Cuba Libre", "Rum Old-fashioned", "Apricot Lady", "Mojito", "Frozen Pineapple Daiquiri", "Imperial Fizz", "Cherry Rum"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "151 Proof Rum",
+    "Count": 13,
+    "Drinks": ["Acid", "Texas Sling", "Miami Vice", "151 Florida Bushwacker", "Downshift", "Kool First Aid", "Space Odyssey", "Grim Reaper", "Rum Old-fashioned", "Flaming Dr. Pepper", "Lemon Shot", "24k Nightmare", "252"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Dark Creme De Cacao",
+    "Count": 2,
+    "Drinks": ["Almond Chocolate Coffee", "151 Florida Bushwacker"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Cointreau",
+    "Count": 6,
+    "Drinks": ["151 Florida Bushwacker", "Zizi Coin-coin", "Cosmopolitan", "Lemon Drop", "Sidecar", "Cosmopolitan Martini"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Milk",
+    "Count": 35,
+    "Drinks": ["Frapp\u00e9", "Chocolate Beverage", "Egg Nog #4", "Grizzly Bear", "Butter Baby", "Blind Russian", "Boozy Snickers Milkshake", "Chocolate Milk", "Jamaica Kiss", "Nutty Irishman", "Orange Scented Hot Chocolate", "Mother's Milk", "151 Florida Bushwacker", "Just A Moonmint", "Egg-nog - Classic Cooked", "Spanish Chocolate", "Sherry Eggnog", "Banana Milk Shake", "Banana Strawberry Shake", "Egg Nog - Healthy", "Drinking Chocolate", "Microwave Hot Cocoa", "Black Forest Shake", "Rum Milk Punch", "Castillian Hot Chocolate", "Sweet Tooth", "Ace", "Sweet Bananas", "Egg Cream", "Masala Chai", "Cafe Savoy", "Baby Eskimo", "Chocolate Drink", "Nuked Hot Chocolate", "Iced Coffee"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Coconut Liqueur",
+    "Count": 3,
+    "Drinks": ["Belgian Blue", "151 Florida Bushwacker", "Absolut Stress #2"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Vanilla Ice-cream",
+    "Count": 7,
+    "Drinks": ["151 Florida Bushwacker", "Oreo Mudslide", "Bailey's Dream Shake", "Butter Baby", "Boozy Snickers Milkshake", "Baby Eskimo", "Brandon And Will's Coke Float"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Dark Rum",
+    "Count": 15,
+    "Drinks": ["Mojito #3", "Midnight Cowboy", "155 Belmont", "Bleeding Surgeon", "Quentin", "Almeria", "Abilene", "Lord And Lady", "Planter's Punch", "Rum Cobbler", "Adam", "Cuba Libra", "Gideon's Green Dinosaur", "Dark And Stormy", "Veteran"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Orange Juice",
+    "Count": 64,
+    "Drinks": ["A Day At The Beach", "Harvey Wallbanger", "A Gilligan's Island", "A Night In Old Mandalay", "50/50", "Wine Punch", "Absolutly Screwed Up", "Monkey Gland", "Thriller", "Pink Penocha", "Sunny Holiday Punch", "Darkwood Sling", "Irish Spring", "Orangeade", "Golden Dream", "Bubble Gum", "9 1/2 Weeks", "Mudslinger", "Amaretto Stone Sour #3", "Paradise", "Stone Sour", "Arizona Twister", "Affair", "Orange Push-up", "Pysch Vitamin Light", "Apello", "Banana Milk Shake", "Popped Cherry", "Apple Cider Punch #1", "Artillery Punch", "Abbey Martini", "Amaretto Sunrise", "Valencia Cocktail", "155 Belmont", "Rum Screwdriver", "Rum Punch", "San Francisco", "Quick-sand", "Planter's Punch", "Apricot Punch", "Tequila Sunrise", "Orange Whip", "Screwdriver", "Berry Deadly", "Afterglow", "Mimosa", "Rum Runner", "Vampiro", "Alice Cocktail", "Addison Special", "Orange Oasis", "Smut", "Abilene", "Spiced Peach Punch", "Space Odyssey", "Sangria #1", "Lunch Box", "Fruit Shake", "Amaretto Stone Sour", "Irish Curdling Cow", "Blue Mountain", "Arctic Fish", "After Sex", "Orange Crush"],
+    "Category": "Juice"
+
+  }, {
+    "Name": "Goldschlager",
+    "Count": 6,
+    "Drinks": ["Auburn Headbanger", "Big Red", "Midnight Manx", "24k Nightmare", "Mother's Milk", "Bob Marley"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "J\u00e4germeister",
+    "Count": 6,
+    "Drinks": ["Grizzly Bear", "Auburn Headbanger", "Zenmeister", "Freddy Kruger", "24k Nightmare", "Bob Marley"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Rumple Minze",
+    "Count": 1,
+    "Drinks": ["24k Nightmare"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Wild Turkey",
+    "Count": 4,
+    "Drinks": ["Acid", "Shot-gun", "252", "Turkeyball"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Jack Daniels",
+    "Count": 5,
+    "Drinks": ["Shot-gun", "Jackhammer", "3 Wise Men", "Applejack", "Tennesee Mud"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Johnnie Walker",
+    "Count": 2,
+    "Drinks": ["3 Wise Men", "Scottish Highland Liqueur"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Jim Beam",
+    "Count": 2,
+    "Drinks": ["3 Wise Men", "Shot-gun"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Gin",
+    "Count": 85,
+    "Drinks": ["Gin Sour", "Gin Sling", "Aviation", "Salty Dog", "3-mile Long Island Iced Tea", "Boxcar", "Ruby Tuesday", "A1", "Abbey Cocktail", "Casino", "Cherry Electric Lemonade", "Rose", "Clover Club", "Dubonnet Cocktail", "Turf Cocktail", "English Highball", "Gin Fizz", "Gin Smash", "Poppy Cocktail", "Artillery", "Flying Dutchman", "69 Special", "Tom Collins", "Gin Cooler", "Addison", "Martinez Cocktail", "Bluebird", "Allies Cocktail", "Grass Skirt", "French 75", "Gin Squirt", "Bermuda Highball", "Jewel Of The Nile", "Boomerang", "Royal Fizz", "Gin Swizzle", "Tuxedo Cocktail", "Lady Love Fizz", "Negroni", "Casino Royale", "Bramble", "Gin And Tonic", "Lone Tree Cooler", "Monkey Gland", "Pink Gin", "Vesper", "Hawaiian Cocktail", "Gin Rickey", "Abbey Martini", "Gentleman's Club", "Lone Tree Cocktail", "Adios Amigos Cocktail", "French \"75\"", "Radioactive Long Island Iced Tea", "Orange Oasis", "White Lady", "Surf City Lifesaver", "Long Island Tea", "National Aquarium", "Victor", "Long Island Iced Tea", "English Rose Cocktail", "Royal Gin Fizz", "Angel Face", "Paradise", "Queen Elizabeth", "At&t", "Arthur Tompkins", "Gin Toddy", "Derby", "Gin Daisy", "Martini", "Adam & Eve", "Ace", "Alaska Cocktail", "Dragonfly", "Alexander", "Imperial Cocktail", "London Town", "Jitterbug", "Army Special", "Pink Lady", "Singapore Sling", "Waikiki Beachcomber", "Archbishop"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Triple Sec",
+    "Count": 39,
+    "Drinks": ["Adam Bomb", "Absolutly Screwed Up", "3-mile Long Island Iced Tea", "Boxcar", "Amaretto Sunset", "Frozen Daiquiri", "Gideon's Green Dinosaur", "Strawberry Margarita", "Golden Dream", "Mai Tai", "Martinez Cocktail", "Atomic Lokade", "Bluebird", "Grass Skirt", "Cherry Electric Lemonade", "Alfie Cocktail", "Hawaiian Cocktail", "Yellow Bird", "After Dinner Cocktail", "Sidecar Cocktail", "Boston Sidecar", "Banana Daiquiri", "Acapulco", "City Slicker", "Kool-aid Shot", "After Supper Cocktail", "Between The Sheets", "Applecar", "Bible Belt", "Radioactive Long Island Iced Tea", "Margarita", "Cafe Savoy", "Orgasm", "Apricot Lady", "Kamikaze", "Waikiki Beachcomber", "White Lady", "Flying Dutchman", "Orange Crush"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Coca-cola",
+    "Count": 13,
+    "Drinks": ["Long Island Tea", "Jack's Vanilla Coke", "Royal Fizz", "410 Gone", "Cuba Libre", "3-mile Long Island Iced Tea", "Irish Russian", "Zoksel", "Long Island Iced Tea", "Cuba Libra", "Coke And Drops", "Brandon And Will's Coke Float", "Citrus Coke"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Sweet And Sour",
+    "Count": 13,
+    "Drinks": ["Stone Sour", "Amaretto Sweet & Sour", "Arizona Antifreeze", "Royal Fizz", "Texas Rattlesnake", "Atlantic Sun", "Cherry Electric Lemonade", "3-mile Long Island Iced Tea", "Singapore Sling", "Absolut Summertime", "Grand Blue", "Irish Spring", "Mai Tai"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Bitters",
+    "Count": 15,
+    "Drinks": ["Boomerang", "Bluebird", "Monkey Wrench", "Turf Cocktail", "Artillery", "Gin Swizzle", "Champagne Cocktail", "Flying Scotchman", "3-mile Long Island Iced Tea", "Balmoral", "Pink Gin", "Rum Old-fashioned", "Classic Old-fashioned", "Horse's Neck", "Dubonnet Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Lemon",
+    "Count": 45,
+    "Drinks": ["Rum Cooler", "Long Island Tea", "Scotch Sour", "Gin Sling", "Mississippi Planters Punch", "Lemouroudji", "Wine Punch", "Japanese Fizz", "3-mile Long Island Iced Tea", "A True Amaretto Sour", "Absolut Summertime", "Sunny Holiday Punch", "Quaker's Cocktail", "Royal Gin Fizz", "Gin Rickey", "Frisco Sour", "Dirty Martini", "Shanghai Cocktail", "Clover Club", "New York Sour", "Sidecar Cocktail", "Vesuvio", "Kill The Cold Smoothie", "Boston Sour", "Grape Lemon Pineapple Smoothie", "Fruit Cooler", "Lemon Shot", "Bloody Maria", "Sweet Sangria", "Tequila Sour", "Gin Fizz", "Lemon Drop", "Zoksel", "Brandy Sour", "Whiskey Sour", "California Lemonade", "Snowball", "Zizi Coin-coin", "Brandy Cobbler", "Chicago Fizz", "Lady Love Fizz", "Rum Cobbler", "Sangria - The World's Best", "Strawberry Lemonade", "Imperial Fizz"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Peach Vodka",
+    "Count": 2,
+    "Drinks": ["Gagliardo", "410 Gone"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Vanilla Vodka",
+    "Count": 1,
+    "Drinks": ["50/50"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Blue Curacao",
+    "Count": 11,
+    "Drinks": ["Belgian Blue", "Atomic Lokade", "Bluebird", "National Aquarium", "Green Goblin", "Flaming Lamborghini", "Blue Margarita", "Grand Blue", "The Evil Blue Thing", "Blue Lagoon", "501 Blue"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Blueberry Schnapps",
+    "Count": 1,
+    "Drinks": ["501 Blue"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Sour Mix",
+    "Count": 9,
+    "Drinks": ["Amaretto Stone Sour #3", "Bible Belt", "National Aquarium", "Applejack", "Orange Push-up", "Amaretto Stone Sour", "Amaretto Sour", "501 Blue", "A Piece Of Ass"],
+    "Category": "Mix"
+  }, {
+    "Name": "7-up",
+    "Count": 6,
+    "Drinks": ["69 Special", "Apple Slammer", "Radler", "Apricot Punch", "501 Blue", "Zoksel"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Lemon Juice",
+    "Count": 57,
+    "Drinks": ["Victory Collins", "69 Special", "Gin Sour", "Bourbon Sour", "Bora Bora", "New York Lemonade", "Tom Collins", "A Night In Old Mandalay", "Aviation", "Pisco Sour", "Havana Cocktail", "Boxcar", "Ice Pick #1", "Orangeade", "English Rose Cocktail", "Strawberry Margarita", "Alabama Slammer", "A1", "Rail Splitter", "Arthur Tompkins", "Casino", "Aloha Fruit Punch", "Adam", "French 75", "Rose", "Russian Spring Punch", "Artillery Punch", "Tequila Fizz", "Gin Daisy", "Mojito #3", "Girl From Ipanema", "Rum Sour", "Bourbon Sling", "City Slicker", "Bloody Maria", "After Supper Cocktail", "Coke And Drops", "French \"75\"", "Between The Sheets", "Allegheny", "Applecar", "Bloody Mary", "John Collins", "Tomato Tang", "Brain Fart", "Zizi Coin-coin", "Van Vleet", "Gagliardo", "Apricot Lady", "Sangria #1", "White Lady", "Blue Mountain", "Casino Royale", "Sidecar", "Avalon", "Bramble", "Lassi - Sweet"],
+    "Category": "Juice"
+  }, {
+    "Name": "Kahlua",
+    "Count": 28,
+    "Drinks": ["Kioki Coffee", "747", "Grizzly Bear", "Oreo Mudslide", "Afternoon", "Quentin", "Blind Russian", "Baby Guinness", "Avalanche", "After Five", "Chocolate Black Russian", "Texas Sling", "B-52", "Bruce's Puce", "Dirty Nipple", "Espresso Martini", "Almeria", "Irish Russian", "California Root Beer", "Flaming Lamborghini", "Iced Coffee Fillip", "Quick F**k", "Screaming Orgasm", "B-53", "Midnight Manx", "Grim Reaper", "Baby Eskimo", "Bumble Bee #1"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Bailey's Irish Cream",
+    "Count": 23,
+    "Drinks": ["Surf City Lifesaver", "747", "Abc", "Oreo Mudslide", "Afternoon", "Blind Russian", "H.d.", "Baby Guinness", "Nutty Irishman", "After Five", "Zorro", "B-52", "Bruce's Puce", "Dirty Nipple", "Midnight Mint", "Hot Creamy Bush", "Bailey's Dream Shake", "Flaming Lamborghini", "Quick F**k", "Screaming Orgasm", "Midnight Manx", "Irish Curdling Cow", "Bumble Bee #1"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Frangelico",
+    "Count": 4,
+    "Drinks": ["Nutty Irishman", "Afternoon", "Royal Bitch", "747"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Absolut Citron",
+    "Count": 8,
+    "Drinks": ["9 1/2 Weeks", "New York Lemonade", "Absolut Limousine", "Cosmopolitan", "Absolutly Screwed Up", "Absolut Summertime", "Lemon Shot", "Absolut Evergreen"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Orange Curacao",
+    "Count": 1,
+    "Drinks": ["9 1/2 Weeks"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Strawberry Liqueur",
+    "Count": 2,
+    "Drinks": ["9 1/2 Weeks", "A Midsummernight Dream"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Coconut Rum",
+    "Count": 1,
+    "Drinks": ["A Day At The Beach"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Grenadine",
+    "Count": 38,
+    "Drinks": ["A Day At The Beach", "Bora Bora", "Monkey Gland", "Boxcar", "Jack Rose Cocktail", "Ruby Tuesday", "English Rose Cocktail", "Mary Pickford", "A1", "Bruce's Puce", "Grass Skirt", "Arizona Twister", "Orange Push-up", "Port And Starboard", "Gin Rickey", "Adam", "Rose", "Shanghai Cocktail", "Gin Squirt", "Bacardi Cocktail", "Clover Club", "Amaretto Sunrise", "Gin Daisy", "San Francisco", "Ace", "Tequila Sunrise", "Queen Charlotte", "Afterglow", "California Lemonade", "Moranguito", "Alice Cocktail", "Addison Special", "Jitterbug", "Pink Lady", "Singapore Sling", "Grim Reaper", "Space Odyssey", "Tequila Fizz"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Ginger Beer",
+    "Count": 2,
+    "Drinks": ["Dark And Stormy", "A Furlong Too Late"],
+    "Category": "Beer"
+  }, {
+    "Name": "Lemon Peel",
+    "Count": 29,
+    "Drinks": ["Lone Tree Cooler", "A Night In Old Mandalay", "Mulled Wine", "Scottish Highland Liqueur", "Long Island Iced Tea", "Gin Cooler", "Dry Rob Roy", "Kentucky Colonel", "Bluebird", "Blackthorn", "Americano", "Arthur Tompkins", "Champagne Cocktail", "Gin Toddy", "Rusty Nail", "Horse's Neck", "Dubonnet Cocktail", "Gluehwein", "A Furlong Too Late", "Sazerac", "Rum Toddy", "Bourbon Sling", "Alaska Cocktail", "Bellini Martini", "English Highball", "Bermuda Highball", "Allegheny", "Loch Lomond", "Bobby Burns Cocktail"],
+    "Category": "Peel"
+  }, {
+    "Name": "Peach Schnapps",
+    "Count": 11,
+    "Drinks": ["Bubble Gum", "A Gilligan's Island", "Royal Flush", "Absolut Stress #2", "Sex On The Beach", "Smut", "Bellini Martini", "Fuzzy Asshole", "Pink Penocha", "Grand Blue", "Bellini"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "A\u00f1ejo Rum",
+    "Count": 2,
+    "Drinks": ["A Night In Old Mandalay", "Blue Mountain"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Ginger Ale",
+    "Count": 16,
+    "Drinks": ["Cream Soda", "Rail Splitter", "A Night In Old Mandalay", "Gg", "Orange Oasis", "Ipamena", "Absolutly Screwed Up", "Cranberry Punch", "Dragonfly", "Rum Punch", "Moscow Mule", "Happy Skipper", "Tequila Fizz", "Aztec Punch", "Horse's Neck", "Absolutely Cranberry Smash"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Southern Comfort",
+    "Count": 8,
+    "Drinks": ["Mudslinger", "Bible Belt", "Alice In Wonderland", "A.d.m. (after Dinner Mint)", "Texas Rattlesnake", "Atlantic Sun", "Alabama Slammer", "A Piece Of Ass"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Ice",
+    "Count": 45,
+    "Drinks": ["Adam Bomb", "Owen's Grandmother's Revenge", "Pisco Sour", "Long Vodka", "Manhattan", "A True Amaretto Sour", "Amaretto Sunset", "Frozen Daiquiri", "Jamaica Kiss", "Darkwood Sling", "Arctic Mouthwash", "Atomic Lokade", "Jack's Vanilla Coke", "Absolut Limousine", "Arizona Twister", "Caipirissima", "Pysch Vitamin Light", "Whitecap Margarita", "Happy Skipper", "Absolutely Cranberry Smash", "Lassi Raita", "Black Forest Shake", "Thai Iced Tea", "Raspberry Cooler", "Rum Punch", "Ipamena", "Wine Cooler", "Zambeer", "Bellini Martini", "Fruit Cooler", "Absolut Evergreen", "Cuba Libra", "Orange Whip", "A Piece Of Ass", "Yoghurt Cooler", "Kiss Me Quick", "Snowball", "Zizi Coin-coin", "Gg", "Kiwi Lemon", "Thai Coffee", "Army Special", "Fruit Shake", "Arctic Fish", "Vodka Fizz"],
+    "Category": "Other"
+  }, {
+    "Name": "Soda Water",
+    "Count": 16,
+    "Drinks": ["Egg Cream", "California Root Beer", "Zipperhead", "Autodaf\u00e9", "Jitterbug", "Spritz", "Limeade", "Sangria - The World's Best", "Addington", "Mojito", "Absolut Summertime", "Fruit Cooler", "Gin Rickey", "Orangeade", "Darkwood Sling", "A Splash Of Nash"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Creme De Banane",
+    "Count": 3,
+    "Drinks": ["A Splash Of Nash", "San Francisco", "After Sex"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Maraschino Cherry",
+    "Count": 17,
+    "Drinks": ["Boomerang", "Gin Daisy", "Bluebird", "Bourbon Sour", "Gin Sour", "John Collins", "Rum Sour", "Tom Collins", "Brandy Cobbler", "Manhattan", "Apello", "A True Amaretto Sour", "French 75", "Rum Cobbler", "Classic Old-fashioned", "French \"75\"", "Mary Pickford"],
+    "Category": "Fruit"
+
+  }, {
+    "Name": "Kirschwasser",
+    "Count": 1,
+    "Drinks": ["A Midsummernight Dream"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Strawberries",
+    "Count": 9,
+    "Drinks": ["Strawberry Daiquiri", "Strawberry Shivers", "Fruit Cooler", "A Midsummernight Dream", "Banana Strawberry Shake", "Banana Strawberry Shake Daiquiri-type", "Strawberry Lemonade", "Strawberry Margarita", "Gin Squirt"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Schweppes Russchian",
+    "Count": 3,
+    "Drinks": ["Kiss Me Quick", "A Midsummernight Dream", "Vodka Russian"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Applejack",
+    "Count": 2,
+    "Drinks": ["Applecar", "A. J."],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Grapefruit Juice",
+    "Count": 7,
+    "Drinks": ["Sea Breeze", "Sex On The Beach", "Hemingway Special", "A. J.", "Salty Dog", "Apello", "Monkey Wrench"],
+    "Category": "Juice"
+  }, {
+    "Name": "White Creme De Menthe",
+    "Count": 5,
+    "Drinks": ["Stinger", "A.d.m. (after Dinner Mint)", "Amaretto Stinger", "Midnight Mint", "Zorro"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Hot Chocolate",
+    "Count": 1,
+    "Drinks": ["A.d.m. (after Dinner Mint)"],
+    "Category": "Hot drink"
+  }, {
+    "Name": "Cognac",
+    "Count": 6,
+    "Drinks": ["Adios Amigos Cocktail", "Abc", "Adam & Eve", "French Connection", "Champagne Cocktail", "Sidecar"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Absolut Vodka",
+    "Count": 5,
+    "Drinks": ["Absolut Stress #2", "Arizona Stingers", "At&t", "Lemon Drop", "Absolutely Cranberry Smash"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Tonic Water",
+    "Count": 5,
+    "Drinks": ["Gin And Tonic", "Absolut Limousine", "At&t", "Vodka And Tonic", "Long Vodka"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Orange Bitters",
+    "Count": 12,
+    "Drinks": ["London Town", "Highland Fling Cocktail", "Sloe Gin Cocktail", "Valencia Cocktail", "Affinity", "Abbey Cocktail", "Adonis Cocktail", "Tuxedo Cocktail", "Casino", "Alaska Cocktail", "Casino Royale", "Martinez Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Orange",
+    "Count": 23,
+    "Drinks": ["Victory Collins", "Gin Sour", "Bourbon Sour", "Tom Collins", "Wine Punch", "Mango Orange Smoothie", "Irish Spring", "Caribbean Orange Liqueur", "Bleeding Surgeon", "Abbey Cocktail", "French 75", "Gin Daisy", "Rum Sour", "Scotch Cobbler", "Sweet Sangria", "French \"75\"", "Gin Smash", "John Collins", "Brandy Cobbler", "Apricot Lady", "Rum Cobbler", "Sangria - The World's Best", "Classic Old-fashioned"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Cherry",
+    "Count": 19,
+    "Drinks": ["Brandy Sour", "Whiskey Sour", "Chocolate Monkey", "Scotch Sour", "Boston Sour", "Banana Daiquiri", "Abbey Cocktail", "Tuxedo Cocktail", "Casino", "Martinez Cocktail", "Singapore Sling", "New York Sour", "Frozen Daiquiri", "Irish Spring", "English Rose Cocktail", "Blue Lagoon", "Tequila Sour", "Mai Tai", "Gin Smash"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Sweet Vermouth",
+    "Count": 19,
+    "Drinks": ["Vesuvio", "Lone Tree Cocktail", "Clove Cocktail", "Blackthorn", "Highland Fling Cocktail", "Affinity", "Artillery", "Victor", "Americano", "Adonis Cocktail", "Flying Scotchman", "Balmoral", "Addington", "English Highball", "Gentleman's Club", "Manhattan", "Negroni", "Abbey Martini", "Bobby Burns Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Angostura Bitters",
+    "Count": 6,
+    "Drinks": ["Mojito #3", "Old Fashioned", "Duchamp's Punch", "Long Vodka", "Manhattan", "Abbey Martini"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Peach Nectar",
+    "Count": 3,
+    "Drinks": ["Bellini Martini", "Spiced Peach Punch", "Abilene"],
+    "Category": "Juice"
+
+  }, {
+    "Name": "Sugar",
+    "Count": 70,
+    "Drinks": ["Frapp\u00e9", "Gin Sour", "Bourbon Sour", "Egg Nog #4", "Strawberry Lemonade", "Tom Collins", "Pisco Sour", "Lemouroudji", "Mulled Wine", "Sangria - The World's Best", "Lassi - Mango", "Frozen Daiquiri", "Swedish Coffee", "Atomic Lokade", "Caribbean Orange Liqueur", "Caipirissima", "Egg-nog - Classic Cooked", "Champagne Cocktail", "Coffee-vodka", "Homemade Kahlua", "Aloha Fruit Punch", "Egg Nog - Healthy", "French 75", "Frozen Mint Daiquiri", "Microwave Hot Cocoa", "Lassi Raita", "Gin Daisy", "Gluehwein", "Amaretto Liqueur", "New York Sour", "Rum Sour", "Castillian Hot Chocolate", "Cranberry Cordial", "Sazerac", "Banana Daiquiri", "Bourbon Sling", "Thai Iced Coffee", "Cranberry Punch", "Acapulco", "Coffee Liqueur", "Fruit Cooler", "Angelica Liqueur", "Lemon Shot", "Sweet Sangria", "French \"75\"", "Brandy Flip", "Gin Smash", "Absinthe #2", "Jam Donut", "John Collins", "Old Fashioned", "Irish Coffee", "Lassi - Sweet", "Gin Swizzle", "Jitterbug", "Brandy Cobbler", "Thai Coffee", "Limeade", "Masala Chai", "Sangria #1", "Kurant Tea", "Mojito", "Rum Cobbler", "Frozen Pineapple Daiquiri", "Adam Sunrise", "Classic Old-fashioned", "Nuked Hot Chocolate", "Caipirinha", "Iced Coffee", "Creme De Menthe"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Anise",
+    "Count": 2,
+    "Drinks": ["Absinthe #2", "Angelica Liqueur"],
+    "Category": "Herb"
+  }, {
+    "Name": "Licorice Root",
+    "Count": 1,
+    "Drinks": ["Absinthe #2"],
+    "Category": "Herb"
+  }, {
+    "Name": "Wormwood",
+    "Count": 1,
+    "Drinks": ["Absinthe #2"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Pisang Ambon",
+    "Count": 2,
+    "Drinks": ["Avalon", "Absolut Evergreen"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Bitter Lemon",
+    "Count": 2,
+    "Drinks": ["Kiwi Lemon", "Absolut Evergreen"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Sprite",
+    "Count": 5,
+    "Drinks": ["Belgian Blue", "Pink Panty Pulldowns", "Downshift", "Absolut Summertime", "Absolut Sex"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Lime Juice",
+    "Count": 26,
+    "Drinks": ["Blue Margarita", "Frozen Daiquiri", "Tommy's Margarita", "Strawberry Daiquiri", "Absolut Limousine", "Duchamp's Punch", "Hemingway Special", "Whitecap Margarita", "Moscow Mule", "Frozen Mint Daiquiri", "Yellow Bird", "Bacardi Cocktail", "Amaretto Rose", "Autodaf\u00e9", "Banana Daiquiri", "Acapulco", "Imperial Cocktail", "Barracuda", "Vampiro", "Gin Swizzle", "Margarita", "Cosmopolitan", "Jitterbug", "Spiced Peach Punch", "Kamikaze", "Frozen Pineapple Daiquiri"],
+    "Category": "Juice"
+  }, {
+    "Name": "Champagne",
+    "Count": 12,
+    "Drinks": ["Mimosa", "Arise My Love", "Girl From Ipanema", "Kir", "Champagne Cocktail", "French \"75\"", "Kir Royale", "Sunny Holiday Punch", "Apricot Punch", "French 75", "Bellini", "Absolutely Fabulous"],
+    "Category": "Wine"
+  }, {
+    "Name": "Egg White",
+    "Count": 14,
+    "Drinks": ["Vesuvio", "Egg Nog #4", "Boston Sour", "Chicago Fizz", "Almeria", "Ace", "Acapulco", "Boxcar", "Apricot Lady", "Japanese Fizz", "Lady Love Fizz", "Pink Lady", "Tequila Fizz", "Clover Club"],
+    "Category": "Egg"
+  }, {
+    "Name": "Mint",
+    "Count": 9,
+    "Drinks": ["Mojito #3", "Thai Iced Tea", "Acapulco", "Scotch Cobbler", "Lassi - A South Indian Drink", "Mojito", "Derby", "Frozen Mint Daiquiri", "Gin Smash"],
+    "Category": "Herb"
+  }, {
+    "Name": "Heavy Cream",
+    "Count": 5,
+    "Drinks": ["Midnight Cowboy", "Midnight Manx", "Ace", "Drinking Chocolate", "Godchild"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Creme De Cassis",
+    "Count": 6,
+    "Drinks": ["Adam & Eve", "Kir", "Russian Spring Punch", "Kir Royale", "Vermouth Cassis", "Zoksel"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Fresh Lemon Juice",
+    "Count": 1,
+    "Drinks": ["Adam & Eve"],
+    "Category": "Juice"
+  }, {
+    "Name": "Rum",
+    "Count": 17,
+    "Drinks": ["Barracuda", "Adam Bomb", "Rum Cooler", "National Aquarium", "Radioactive Long Island Iced Tea", "Adios Amigos Cocktail", "Brain Fart", "Hemingway Special", "Rum Toddy", "Rum Punch", "Tia-maria", "Zippy's Revenge", "Egg Nog - Healthy", "Aztec Punch", "Orange Whip", "Artillery Punch", "Jamaican Coffee"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Fruit",
+    "Count": 3,
+    "Drinks": ["Adam Bomb", "Fruit Shake", "Yoghurt Cooler"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Salt",
+    "Count": 13,
+    "Drinks": ["Lassi Raita", "Adam Bomb", "Egg Nog #4", "Vampiro", "Egg-nog - Classic Cooked", "Margarita", "Blue Margarita", "Salty Dog", "Lassi - A South Indian Drink", "Lassi Khara", "Strawberry Margarita", "Microwave Hot Cocoa", "Lassi - Sweet"],
+    "Category": "Other"
+  }, {
+    "Name": "Fruit Juice",
+    "Count": 2,
+    "Drinks": ["Adam Bomb", "Fruit Flip-flop"],
+    "Category": "Juice"
+  }, {
+    "Name": "Lemonade",
+    "Count": 10,
+    "Drinks": ["Atomic Lokade", "Apple Cider Punch #1", "Snowball", "Owen's Grandmother's Revenge", "Shark Attack", "Blue Lagoon", "Adam Sunrise", "Aztec Punch", "Avalon", "Zoksel"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Water",
+    "Count": 38,
+    "Drinks": ["Strawberry Lemonade", "Gin Sling", "Lemouroudji", "Mulled Wine", "Jello Shots", "Lassi - Mango", "Shark Attack", "Strawberry Shivers", "Coffee-vodka", "Gin Toddy", "Chocolate Drink", "Homemade Kahlua", "Aloha Fruit Punch", "Microwave Hot Cocoa", "Gluehwein", "Amaretto Liqueur", "Thai Iced Tea", "Adios Amigos Cocktail", "Castillian Hot Chocolate", "Kill The Cold Smoothie", "Sazerac", "Rum Toddy", "Bourbon Sling", "Coffee Liqueur", "Angelica Liqueur", "Sweet Sangria", "Jamaican Coffee", "Old Fashioned", "Lassi - Sweet", "Masala Chai", "Tia-maria", "Rum Old-fashioned", "Lassi - A South Indian Drink", "Adam Sunrise", "Lassi Khara", "Classic Old-fashioned", "Iced Coffee", "Creme De Menthe"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Dry Vermouth",
+    "Count": 23,
+    "Drinks": ["Algonquin", "Lone Tree Cooler", "Addington", "Vermouth Cassis", "Vodka Martini", "English Rose Cocktail", "Dry Rob Roy", "Martinez Cocktail", "Sloe Gin Cocktail", "Allies Cocktail", "Queen Elizabeth", "Rose", "Dirty Martini", "Martini", "Turf Cocktail", "Affinity", "Adios Amigos Cocktail", "Bermuda Highball", "Allegheny", "Boomerang", "Tuxedo Cocktail", "Balmoral", "Loch Lomond"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Vermouth",
+    "Count": 2,
+    "Drinks": ["Addison", "Ziemes Martini Apfelsaft"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Fresh Lime Juice",
+    "Count": 1,
+    "Drinks": ["Adios Amigos Cocktail"],
+    "Category": "Juice"
+  }, {
+    "Name": "Sugar Syrup",
+    "Count": 12,
+    "Drinks": ["Adios Amigos Cocktail", "Rail Splitter", "Vampiro", "Espresso Martini", "Jitterbug", "Flying Scotchman", "Banana Milk Shake", "Russian Spring Punch", "Orangeade", "Bacardi Cocktail", "Jam Donut", "Bramble"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Sherry",
+    "Count": 5,
+    "Drinks": ["Quarter Deck Cocktail", "Queen Bee", "Adonis Cocktail", "Sherry Flip", "Sherry Eggnog"],
+    "Category": "Wine"
+  }, {
+    "Name": "Strawberry Schnapps",
+    "Count": 3,
+    "Drinks": ["Strawberry Margarita", "Strawberry Daiquiri", "Affair"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Club Soda",
+    "Count": 13,
+    "Drinks": ["John Collins", "New York Lemonade", "Mojito #3", "Tom Collins", "Affair", "Gin Swizzle", "Brandy Cobbler", "Atlantic Sun", "Cherry Electric Lemonade", "Rum Cobbler", "Sunny Holiday Punch", "Gentleman's Club", "Amaretto Rose"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Scotch",
+    "Count": 14,
+    "Drinks": ["Godfather", "Highland Fling Cocktail", "Irish Cream", "Scotch Sour", "Affinity", "Whisky Mac", "Rusty Nail", "Thriller", "Flying Scotchman", "Balmoral", "Scotch Cobbler", "Dry Rob Roy", "Loch Lomond", "Bobby Burns Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Apricot Brandy",
+    "Count": 10,
+    "Drinks": ["Paradise", "Valencia Cocktail", "Stone Sour", "Apricot Lady", "Rose", "After Supper Cocktail", "Apricot Punch", "English Rose Cocktail", "After Dinner Cocktail", "Angel Face"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Lime",
+    "Count": 28,
+    "Drinks": ["Gin And Tonic", "Scotch Sour", "Daiquiri", "Long Vodka", "Jack Rose Cocktail", "Amaretto Mist", "Caipirissima", "Gin Rickey", "Happy Skipper", "Frisco Sour", "After Dinner Cocktail", "Lassi Raita", "Boston Sidecar", "Quarter Deck Cocktail", "Ipamena", "Dragonfly", "Cuba Libra", "Sweet Sangria", "Cosmopolitan Martini", "Bloody Mary", "Bible Belt", "California Lemonade", "Cuba Libre", "Limeade", "Dark Caipirinha", "Mojito", "Archbishop", "Caipirinha"],
+    "Category": "Fruit"
+
+  }, {
+    "Name": "Peppermint Schnapps",
+    "Count": 1,
+    "Drinks": ["After Five"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Coffee",
+    "Count": 26,
+    "Drinks": ["Kioki Coffee", "Frapp\u00e9", "Afternoon", "Karsk", "H.d.", "Swedish Coffee", "Coffee-vodka", "Homemade Kahlua", "Hot Creamy Bush", "Thai Iced Coffee", "Coffee Liqueur", "Fuzzy Asshole", "Mocha-berry", "Jamaican Coffee", "Danbooka", "Irish Coffee", "Iced Coffee Fillip", "Spiking Coffee", "Talos Coffee", "Thai Coffee", "Midnight Manx", "Tia-maria", "Cafe Savoy", "Almond Chocolate Coffee", "Iced Coffee", "Tennesee Mud"],
+    "Category": "Hot drink"
+  }, {
+    "Name": "Cream",
+    "Count": 9,
+    "Drinks": ["Texas Sling", "Alice Cocktail", "Afternoon", "Avalanche", "Bailey's Dream Shake", "Thai Iced Coffee", "Midnight Mint", "Orange Whip", "Golden Dream"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Sloe Gin",
+    "Count": 5,
+    "Drinks": ["Sloe Gin Cocktail", "Clove Cocktail", "Blackthorn", "Kool-aid Shot", "Alabama Slammer"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Yellow Chartreuse",
+    "Count": 2,
+    "Drinks": ["Jewel Of The Nile", "Alaska Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Light Cream",
+    "Count": 16,
+    "Drinks": ["Brandy Alexander", "Port Wine Flip", "Scooter", "Quentin", "White Russian", "Foxy Lady", "Sherry Flip", "Amaretto And Cream", "Pink Lady", "Lady Love Fizz", "Orgasm", "Almond Joy", "Alexander", "Grasshopper", "Cherry Rum", "Brandy Flip"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Nutmeg",
+    "Count": 13,
+    "Drinks": ["Brandy Alexander", "Port Wine Flip", "Egg Nog #4", "Rum Milk Punch", "Quentin", "Egg Nog - Healthy", "Sherry Flip", "Sherry Eggnog", "Alexander", "Orange Scented Hot Chocolate", "Brandy Flip", "Apple Cider Punch #1", "Vodka Fizz"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Lemon Vodka",
+    "Count": 1,
+    "Drinks": ["Alfie Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Blended Whiskey",
+    "Count": 8,
+    "Drinks": ["Whiskey Sour", "California Lemonade", "Algonquin", "Boston Sour", "Japanese Fizz", "Frisco Sour", "Imperial Fizz", "New York Sour"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Bourbon",
+    "Count": 15,
+    "Drinks": ["Kentucky Colonel", "John Collins", "Kentucky B And B", "Bourbon Sour", "Egg Nog #4", "Midnight Cowboy", "Old Fashioned", "Sazerac", "Mississippi Planters Punch", "Bourbon Sling", "Manhattan", "Irish Curdling Cow", "Classic Old-fashioned", "Brandon And Will's Coke Float", "Allegheny"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Blackberry Brandy",
+    "Count": 3,
+    "Drinks": ["Rum Runner", "Jelly Bean", "Allegheny"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Kummel",
+    "Count": 1,
+    "Drinks": ["Allies Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Ginger",
+    "Count": 5,
+    "Drinks": ["Kill The Cold Smoothie", "Lemouroudji", "Masala Chai", "Pineapple Gingerale Smoothie", "Aloha Fruit Punch"],
+    "Category": "Herb"
+  }, {
+    "Name": "Guava Juice",
+    "Count": 1,
+    "Drinks": ["Aloha Fruit Punch"],
+    "Category": "Juice"
+  }, {
+    "Name": "Pineapple",
+    "Count": 8,
+    "Drinks": ["Grass Skirt", "Arizona Twister", "Grape Lemon Pineapple Smoothie", "Frozen Pineapple Daiquiri", "Aloha Fruit Punch", "Pineapple Gingerale Smoothie", "Gin Squirt", "Pina Colada"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Apricot",
+    "Count": 1,
+    "Drinks": ["Amaretto Liqueur"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Almond Flavoring",
+    "Count": 2,
+    "Drinks": ["Cranberry Punch", "Amaretto Liqueur"],
+    "Category": "Other"
+  }, {
+    "Name": "Grain Alcohol",
+    "Count": 3,
+    "Drinks": ["Karsk", "Amaretto Liqueur", "Creme De Menthe"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Brandy",
+    "Count": 28,
+    "Drinks": ["Kioki Coffee", "Amaretto Shake", "Mississippi Planters Punch", "Victor", "Mulled Wine", "Quaker's Cocktail", "Stinger", "Port Wine Cocktail", "Sol Y Sombra", "Horse's Neck", "Porto Flip", "Artillery Punch", "Gentleman's Club", "Sidecar Cocktail", "Amaretto Liqueur", "Boston Sidecar", "English Highball", "City Slicker", "Scotch Cobbler", "Bermuda Highball", "Brandy Flip", "Between The Sheets", "Brandy Sour", "Brandy Alexander", "Scooter", "Brandy Cobbler", "Cafe Savoy", "Sangria - The World's Best"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Food Coloring",
+    "Count": 3,
+    "Drinks": ["Amaretto Liqueur", "Angelica Liqueur", "Creme De Menthe"],
+    "Category": "Other"
+  }, {
+    "Name": "Glycerine",
+    "Count": 1,
+    "Drinks": ["Amaretto Liqueur"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Chocolate Ice-cream",
+    "Count": 3,
+    "Drinks": ["Chocolate Black Russian", "Chocolate Monkey", "Amaretto Shake"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Cider",
+    "Count": 5,
+    "Drinks": ["Snake Bite (uk)", "Snakebite And Black", "Green Goblin", "Diesel", "Amaretto Sunset"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Tea",
+    "Count": 6,
+    "Drinks": ["Thai Iced Tea", "Masala Chai", "Kurant Tea", "Amaretto Tea", "Artillery Punch", "Herbal Flame"],
+    "Category": "Hot drink"
+  }, {
+    "Name": "Whipped Cream",
+    "Count": 8,
+    "Drinks": ["Chocolate Monkey", "Irish Coffee", "Jamaican Coffee", "Boozy Snickers Milkshake", "Amaretto Tea", "Mocha-berry", "Drinking Chocolate", "Tennesee Mud"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Campari",
+    "Count": 4,
+    "Drinks": ["Spritz", "Americano", "Campari Beer", "Negroni"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Orange Peel",
+    "Count": 5,
+    "Drinks": ["Turf Cocktail", "Gin Sling", "Americano", "Manhattan", "Orange Scented Hot Chocolate"],
+    "Category": "Peel"
+  }, {
+    "Name": "Apple Brandy",
+    "Count": 2,
+    "Drinks": ["Jack Rose Cocktail", "Angel Face"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Angelica Root",
+    "Count": 2,
+    "Drinks": ["Scottish Highland Liqueur", "Angelica Liqueur"],
+    "Category": "Herb"
+  }, {
+    "Name": "Almond",
+    "Count": 1,
+    "Drinks": ["Angelica Liqueur"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Allspice",
+    "Count": 2,
+    "Drinks": ["Apple Cider Punch #1", "Angelica Liqueur"],
+    "Category": "Herb"
+  }, {
+    "Name": "Cinnamon",
+    "Count": 12,
+    "Drinks": ["Gluehwein", "Chocolate Beverage", "Apple Pie With A Crust", "Spiking Coffee", "Masala Chai", "Mulled Wine", "Spiced Peach Punch", "Sangria #1", "Angelica Liqueur", "Spanish Chocolate", "Apple Cider Punch #1", "Drinking Chocolate"],
+    "Category": "Herb"
+  }, {
+    "Name": "Coriander",
+    "Count": 2,
+    "Drinks": ["Thai Coffee", "Angelica Liqueur"],
+    "Category": "Herb"
+  }, {
+    "Name": "Marjoram Leaves",
+    "Count": 1,
+    "Drinks": ["Angelica Liqueur"],
+    "Category": "Herb"
+  }, {
+    "Name": "Apple Juice",
+    "Count": 9,
+    "Drinks": ["Kiss Me Quick", "Apple Pie With A Crust", "Ziemes Martini Apfelsaft", "Pysch Vitamin Light", "Apello", "Fruit Cooler", "Banana Strawberry Shake Daiquiri-type", "Apple Karate", "Avalon"],
+    "Category": "Juice"
+  }, {
+    "Name": "Berries",
+    "Count": 2,
+    "Drinks": ["Apple Berry Smoothie", "Sunny Holiday Punch"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Apple",
+    "Count": 4,
+    "Drinks": ["Sweet Sangria", "Apple Berry Smoothie", "Fruit Cooler", "Sangria - The World's Best"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Apple Cider",
+    "Count": 2,
+    "Drinks": ["Apple Cider Punch #1", "Apple Grande"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Brown Sugar",
+    "Count": 4,
+    "Drinks": ["Tia-maria", "Apple Cider Punch #1", "Ipamena", "Spiced Peach Punch"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Cloves",
+    "Count": 6,
+    "Drinks": ["Gluehwein", "Mulled Wine", "Masala Chai", "Spiced Peach Punch", "Sangria #1", "Apple Cider Punch #1"],
+    "Category": "Herb"
+  }, {
+    "Name": "Carrot",
+    "Count": 1,
+    "Drinks": ["Apple Karate"],
+    "Category": "Vegetable"
+  }, {
+    "Name": "Apple Schnapps",
+    "Count": 1,
+    "Drinks": ["Apple Slammer"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Wine",
+    "Count": 5,
+    "Drinks": ["Berry Deadly", "Clove Cocktail", "Whisky Mac", "Thriller", "Archbishop"],
+    "Category": "Wine"
+  }, {
+    "Name": "Benedictine",
+    "Count": 8,
+    "Drinks": ["Kentucky Colonel", "Kentucky B And B", "Queen Elizabeth", "Monkey Gland", "Archbishop", "Frisco Sour", "Artillery Punch", "Bobby Burns Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Grape Soda",
+    "Count": 1,
+    "Drinks": ["Arctic Fish"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Candy",
+    "Count": 1,
+    "Drinks": ["Arctic Fish"],
+    "Category": "Candy"
+  }, {
+    "Name": "Maui",
+    "Count": 1,
+    "Drinks": ["Arctic Mouthwash"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Mountain Dew",
+    "Count": 3,
+    "Drinks": ["Brain Fart", "Arctic Mouthwash", "Gideon's Green Dinosaur"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Green Creme De Menthe",
+    "Count": 3,
+    "Drinks": ["Grasshopper", "Arise My Love", "Port And Starboard"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Iced Tea",
+    "Count": 2,
+    "Drinks": ["Arizona Stingers", "Ice Pick #1"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Gold Tequila",
+    "Count": 1,
+    "Drinks": ["Arizona Twister"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Cream Of Coconut",
+    "Count": 2,
+    "Drinks": ["Arizona Twister", "Whitecap Margarita"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Lime Juice Cordial",
+    "Count": 1,
+    "Drinks": ["Army Special"],
+    "Category": "Juice"
+  }, {
+    "Name": "Rye Whiskey",
+    "Count": 1,
+    "Drinks": ["Artillery Punch"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Red Wine",
+    "Count": 11,
+    "Drinks": ["Gluehwein", "Wine Punch", "Smut", "Mulled Wine", "Wine Cooler", "Sangria #1", "Sangria - The World's Best", "Sweet Sangria", "Artillery Punch", "Queen Charlotte", "New York Sour"],
+    "Category": "Wine"
+  }, {
+    "Name": "Passion Fruit Syrup",
+    "Count": 1,
+    "Drinks": ["Atlantic Sun"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Crown Royal",
+    "Count": 4,
+    "Drinks": ["Red Snapper", "Royal Bitch", "Avalanche", "Royal Flush"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Maraschino Liqueur",
+    "Count": 8,
+    "Drinks": ["Boomerang", "London Town", "Hemingway Special", "Aviation", "Tuxedo Cocktail", "Casino", "Casino Royale", "Mary Pickford"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Sambuca",
+    "Count": 9,
+    "Drinks": ["Flander's Flake-out", "Flaming Lamborghini", "Dirty Nipple", "B-53", "Zambeer", "Brainteaser", "Bumble Bee #1", "Freddy Kruger", "Zorro"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Cantaloupe",
+    "Count": 1,
+    "Drinks": ["Banana Cantaloupe Smoothie"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Banana",
+    "Count": 8,
+    "Drinks": ["Chocolate Monkey", "Banana Cantaloupe Smoothie", "Banana Daiquiri", "Banana Milk Shake", "Fruit Shake", "Banana Strawberry Shake", "Sweet Bananas", "Banana Strawberry Shake Daiquiri-type"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Yoghurt",
+    "Count": 9,
+    "Drinks": ["Lassi Raita", "Fruit Flip-flop", "Lassi - Mango", "Lassi - A South Indian Drink", "Fruit Shake", "Banana Strawberry Shake", "Lassi Khara", "Yoghurt Cooler", "Lassi - Sweet"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Honey",
+    "Count": 5,
+    "Drinks": ["Melya", "Scottish Highland Liqueur", "Strawberry Shivers", "Banana Strawberry Shake", "Sweet Bananas"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Galliano",
+    "Count": 8,
+    "Drinks": ["Barracuda", "California Root Beer", "Harvey Wallbanger", "Gg", "Gagliardo", "Lemon Shot", "Yellow Bird", "Golden Dream"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Prosecco",
+    "Count": 2,
+    "Drinks": ["Barracuda", "Spritz"],
+    "Category": "Wine"
+  }, {
+    "Name": "Carbonated Water",
+    "Count": 16,
+    "Drinks": ["California Lemonade", "Royal Gin Fizz", "Lone Tree Cooler", "Mississippi Planters Punch", "Chicago Fizz", "Gin Squirt", "Japanese Fizz", "English Highball", "Lady Love Fizz", "Singapore Sling", "Bermuda Highball", "Vermouth Cassis", "Gin Cooler", "Imperial Fizz", "Gin Fizz", "Gin Smash"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Everclear",
+    "Count": 4,
+    "Drinks": ["Berry Deadly", "Brain Fart", "Pink Penocha", "Danbooka"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Kool-aid",
+    "Count": 4,
+    "Drinks": ["Berry Deadly", "Kool First Aid", "Kool-aid Slammer", "Zippy's Revenge"],
+    "Category": "Other"
+  }, {
+    "Name": "Irish Cream",
+    "Count": 2,
+    "Drinks": ["Texas Sling", "Big Red"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Ale",
+    "Count": 1,
+    "Drinks": ["Black & Tan"],
+    "Category": "Beer"
+  }, {
+    "Name": "Guinness Stout",
+    "Count": 3,
+    "Drinks": ["Irish Russian", "Black & Tan", "Black And Brown"],
+    "Category": "Beer"
+  }, {
+    "Name": "Chocolate Syrup",
+    "Count": 5,
+    "Drinks": ["Black Forest Shake", "Egg Cream", "Just A Moonmint", "Chocolate Monkey", "Irish Cream"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Cherry Brandy",
+    "Count": 6,
+    "Drinks": ["Black Forest Shake", "Orange Oasis", "Texas Rattlesnake", "Singapore Sling", "Cherry Rum", "Veteran"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Coffee Liqueur",
+    "Count": 3,
+    "Drinks": ["Jamaica Kiss", "Black Russian", "White Russian"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Root Beer",
+    "Count": 4,
+    "Drinks": ["Zoksel", "Zenmeister", "Black And Brown", "Zambeer"],
+    "Category": "Beer"
+  }, {
+    "Name": "Surge",
+    "Count": 3,
+    "Drinks": ["Brain Fart", "Bleeding Surgeon", "Zinger"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Godiva Liqueur",
+    "Count": 3,
+    "Drinks": ["Sweet Tooth", "Boozy Snickers Milkshake", "Blind Russian"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Butterscotch Schnapps",
+    "Count": 3,
+    "Drinks": ["Butter Baby", "Mother's Milk", "Blind Russian"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Tomato Juice",
+    "Count": 4,
+    "Drinks": ["Bloody Mary", "Vampiro", "Tomato Tang", "Bloody Maria"],
+    "Category": "Juice"
+  }, {
+    "Name": "Tabasco Sauce",
+    "Count": 5,
+    "Drinks": ["Bloody Mary", "Brave Bull Shooter", "Fahrenheit 5000", "Bloody Maria", "Tequila Surprise"],
+    "Category": "Sauce"
+  }, {
+    "Name": "Celery Salt",
+    "Count": 2,
+    "Drinks": ["Tomato Tang", "Bloody Maria"],
+    "Category": "Herb"
+  }, {
+    "Name": "Worcestershire Sauce",
+    "Count": 1,
+    "Drinks": ["Bloody Mary"],
+    "Category": "Herb"
+  }, {
+    "Name": "Tia Maria",
+    "Count": 2,
+    "Drinks": ["Lord And Lady", "Blue Mountain"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Caramel Sauce",
+    "Count": 1,
+    "Drinks": ["Boozy Snickers Milkshake"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Chocolate Sauce",
+    "Count": 1,
+    "Drinks": ["Boozy Snickers Milkshake"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Mini-snickers Bars",
+    "Count": 1,
+    "Drinks": ["Boozy Snickers Milkshake"],
+    "Category": "Candy"
+  }, {
+    "Name": "Passion Fruit Juice",
+    "Count": 2,
+    "Drinks": ["Bora Bora", "Ipamena"],
+    "Category": "Juice"
+  }, {
+    "Name": "Powdered Sugar",
+    "Count": 29,
+    "Drinks": ["Victory Collins", "Lone Tree Cooler", "Scotch Sour", "Gin Sling", "Mississippi Planters Punch", "Daiquiri", "Japanese Fizz", "Gin Cooler", "Royal Gin Fizz", "Strawberry Daiquiri", "Gin Toddy", "Sherry Eggnog", "Rose", "Gin Squirt", "Vesuvio", "Port Wine Flip", "Rum Milk Punch", "Boston Sour", "Rum Toddy", "Sherry Flip", "Tequila Sour", "Gin Fizz", "Brandy Sour", "Whiskey Sour", "California Lemonade", "Chicago Fizz", "Lady Love Fizz", "Rum Old-fashioned", "Imperial Fizz"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Erin Cream",
+    "Count": 1,
+    "Drinks": ["Brainteaser"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Advocaat",
+    "Count": 2,
+    "Drinks": ["Brainteaser", "Snowball"],
+    "Category": "Alcoholic"
+
+  }, {
+    "Name": "Creme De Mure",
+    "Count": 1,
+    "Drinks": ["Bramble"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Egg",
+    "Count": 9,
+    "Drinks": ["Port Wine Flip", "Chocolate Beverage", "Royal Gin Fizz", "Egg-nog - Classic Cooked", "Royal Fizz", "Sherry Flip", "Sherry Eggnog", "Egg Nog - Healthy", "Brandy Flip"],
+    "Category": "Egg"
+  }, {
+    "Name": "Peachtree Schnapps",
+    "Count": 2,
+    "Drinks": ["Zinger", "Bruised Heart"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Banana Liqueur",
+    "Count": 2,
+    "Drinks": ["Bubble Gum", "Chocolate Monkey"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Corona",
+    "Count": 3,
+    "Drinks": ["Limona Corona", "Buccaneer", "Caribbean Boilermaker"],
+    "Category": "Beer"
+  }, {
+    "Name": "Bacardi Limon",
+    "Count": 3,
+    "Drinks": ["Limona Corona", "Buccaneer", "Citrus Coke"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Cachaca",
+    "Count": 3,
+    "Drinks": ["Girl From Ipanema", "Dark Caipirinha", "Caipirinha"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "White Rum",
+    "Count": 3,
+    "Drinks": ["Cherry Electric Lemonade", "Yellow Bird", "Caipirissima"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Egg Yolk",
+    "Count": 4,
+    "Drinks": ["Casino Royale", "Spanish Chocolate", "Egg Nog #4", "Porto Flip"],
+    "Category": "Egg"
+  }, {
+    "Name": "Cocoa Powder",
+    "Count": 5,
+    "Drinks": ["Melya", "Castillian Hot Chocolate", "Mocha-berry", "Nuked Hot Chocolate", "Microwave Hot Cocoa"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Cornstarch",
+    "Count": 1,
+    "Drinks": ["Castillian Hot Chocolate"],
+    "Category": "Other"
+  }, {
+    "Name": "Cherry Grenadine",
+    "Count": 1,
+    "Drinks": ["Cherry Electric Lemonade"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Port",
+    "Count": 5,
+    "Drinks": ["Port Wine Flip", "Chicago Fizz", "Japanese Fizz", "Port Wine Cocktail", "Porto Flip"],
+    "Category": "Wine"
+  }, {
+    "Name": "Chocolate",
+    "Count": 6,
+    "Drinks": ["Orange Scented Hot Chocolate", "Chocolate Beverage", "Spanish Chocolate", "Hot Chocolate To Die For", "Chocolate Drink", "Drinking Chocolate"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Chocolate Liqueur",
+    "Count": 1,
+    "Drinks": ["Chocolate Milk"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Chocolate Milk",
+    "Count": 1,
+    "Drinks": ["Chocolate Monkey"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Vanilla Extract",
+    "Count": 10,
+    "Drinks": ["Egg Nog #4", "Jack's Vanilla Coke", "Egg-nog - Classic Cooked", "Tia-maria", "Coffee Liqueur", "Hot Chocolate To Die For", "Homemade Kahlua", "Egg Nog - Healthy", "Nuked Hot Chocolate", "Microwave Hot Cocoa"],
+    "Category": "Sauce"
+  }, {
+    "Name": "Vanilla",
+    "Count": 2,
+    "Drinks": ["Coffee-vodka", "Drinking Chocolate"],
+    "Category": "Herb"
+  }, {
+    "Name": "Caramel Coloring",
+    "Count": 1,
+    "Drinks": ["Coffee-vodka"],
+    "Category": "Other"
+  }, {
+    "Name": "Cranberries",
+    "Count": 1,
+    "Drinks": ["Cranberry Cordial"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Spiced Rum",
+    "Count": 3,
+    "Drinks": ["Cream Soda", "Orange Push-up", "Happy Skipper"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Peppermint Extract",
+    "Count": 1,
+    "Drinks": ["Creme De Menthe"],
+    "Category": "Sauce"
+  }, {
+    "Name": "Whiskey",
+    "Count": 2,
+    "Drinks": ["Owen's Grandmother's Revenge", "Damned If You Do"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Hot Damn",
+    "Count": 2,
+    "Drinks": ["Damned If You Do", "Herbal Flame"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Demerara Sugar",
+    "Count": 1,
+    "Drinks": ["Dark Caipirinha"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Cherry Heering",
+    "Count": 1,
+    "Drinks": ["Darkwood Sling"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Peach Bitters",
+    "Count": 1,
+    "Drinks": ["Derby"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Blackcurrant Cordial",
+    "Count": 1,
+    "Drinks": ["Diesel"],
+    "Category": "Juice"
+  }, {
+    "Name": "Olive Brine",
+    "Count": 1,
+    "Drinks": ["Dirty Martini"],
+    "Category": "Other"
+  }, {
+    "Name": "Olive",
+    "Count": 4,
+    "Drinks": ["Dirty Martini", "Martini", "Highland Fling Cocktail", "Vodka Martini"],
+    "Category": "Vegetable"
+  }, {
+    "Name": "Fruit Punch",
+    "Count": 2,
+    "Drinks": ["Rum Punch", "Downshift"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Dubonnet Rouge",
+    "Count": 1,
+    "Drinks": ["Dubonnet Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Pisco",
+    "Count": 2,
+    "Drinks": ["Pisco Sour", "Duchamp's Punch"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Pineapple Syrup",
+    "Count": 1,
+    "Drinks": ["Duchamp's Punch"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "St. Germain",
+    "Count": 1,
+    "Drinks": ["Duchamp's Punch"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Pepper",
+    "Count": 1,
+    "Drinks": ["Duchamp's Punch"],
+    "Category": "Herb"
+  }, {
+    "Name": "Lavender",
+    "Count": 1,
+    "Drinks": ["Duchamp's Punch"],
+    "Category": "Herb"
+  }, {
+    "Name": "Whipping Cream",
+    "Count": 2,
+    "Drinks": ["Egg Nog #4", "Thai Coffee"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Condensed Milk",
+    "Count": 3,
+    "Drinks": ["Egg Nog - Healthy", "Irish Cream", "Thai Iced Tea"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Firewater",
+    "Count": 1,
+    "Drinks": ["Fahrenheit 5000"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Absolut Peppar",
+    "Count": 1,
+    "Drinks": ["Fahrenheit 5000"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Dr. Pepper",
+    "Count": 1,
+    "Drinks": ["Flaming Dr. Pepper"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Beer",
+    "Count": 5,
+    "Drinks": ["Owen's Grandmother's Revenge", "Lunch Box", "Radler", "Flaming Dr. Pepper", "Zoksel"],
+    "Category": "Beer"
+  }, {
+    "Name": "Sarsaparilla",
+    "Count": 1,
+    "Drinks": ["Flander's Flake-out"],
+    "Category": "Herb"
+  }, {
+    "Name": "Raspberry Liqueur",
+    "Count": 1,
+    "Drinks": ["French Martini"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Sirup Of Roses",
+    "Count": 1,
+    "Drinks": ["Gagliardo"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Melon Liqueur",
+    "Count": 1,
+    "Drinks": ["Gideon's Green Dinosaur"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Orange Spiral",
+    "Count": 2,
+    "Drinks": ["Lone Tree Cooler", "Gin Cooler"],
+    "Category": "Peel"
+  }, {
+    "Name": "Agave Syrup",
+    "Count": 2,
+    "Drinks": ["Tommy's Margarita", "Girl From Ipanema"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Grapes",
+    "Count": 1,
+    "Drinks": ["Grape Lemon Pineapple Smoothie"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Whisky",
+    "Count": 1,
+    "Drinks": ["H.d."],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Grape Juice",
+    "Count": 2,
+    "Drinks": ["Victory Collins", "Holloween Punch"],
+    "Category": "Juice"
+  }, {
+    "Name": "Carbonated Soft Drink",
+    "Count": 1,
+    "Drinks": ["Holloween Punch"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Sherbet",
+    "Count": 1,
+    "Drinks": ["Holloween Punch"],
+    "Category": "Other"
+  }, {
+    "Name": "Corn Syrup",
+    "Count": 1,
+    "Drinks": ["Homemade Kahlua"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Butter",
+    "Count": 1,
+    "Drinks": ["Hot Chocolate To Die For"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Half-and-half",
+    "Count": 3,
+    "Drinks": ["Vodka Fizz", "Irish Cream", "Hot Chocolate To Die For"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Marshmallows",
+    "Count": 1,
+    "Drinks": ["Hot Chocolate To Die For"],
+    "Category": "Candy"
+  }, {
+    "Name": "Irish Whiskey",
+    "Count": 3,
+    "Drinks": ["Irish Spring", "Irish Coffee", "Hot Creamy Bush"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Aperol",
+    "Count": 1,
+    "Drinks": ["Imperial Cocktail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Coconut Syrup",
+    "Count": 1,
+    "Drinks": ["Irish Cream"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Peach Brandy",
+    "Count": 1,
+    "Drinks": ["Irish Spring"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Tennessee Whiskey",
+    "Count": 1,
+    "Drinks": ["Jack's Vanilla Coke"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Baileys Irish Cream",
+    "Count": 1,
+    "Drinks": ["Jam Donut"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Jello",
+    "Count": 1,
+    "Drinks": ["Jello Shots"],
+    "Category": "Candy"
+  }, {
+    "Name": "Anis",
+    "Count": 3,
+    "Drinks": ["Turf Cocktail", "Tuxedo Cocktail", "Jelly Bean"],
+    "Category": "Herb"
+  }, {
+    "Name": "Green Chartreuse",
+    "Count": 1,
+    "Drinks": ["Jewel Of The Nile"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Mint Syrup",
+    "Count": 1,
+    "Drinks": ["Just A Moonmint"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Cranberry Vodka",
+    "Count": 1,
+    "Drinks": ["Kiss Me Quick"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Apfelkorn",
+    "Count": 1,
+    "Drinks": ["Kiss Me Quick"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Kiwi Liqueur",
+    "Count": 1,
+    "Drinks": ["Kiwi Lemon"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Kiwi",
+    "Count": 1,
+    "Drinks": ["Kiwi Papaya Smoothie"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Papaya",
+    "Count": 1,
+    "Drinks": ["Kiwi Papaya Smoothie"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Cumin Seed",
+    "Count": 1,
+    "Drinks": ["Lassi - A South Indian Drink"],
+    "Category": "Herb"
+  }, {
+    "Name": "Mango",
+    "Count": 2,
+    "Drinks": ["Lassi - Mango", "Mango Orange Smoothie"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Asafoetida",
+    "Count": 1,
+    "Drinks": ["Lassi Khara"],
+    "Category": "Herb"
+  }, {
+    "Name": "Cayenne Pepper",
+    "Count": 1,
+    "Drinks": ["Lemouroudji"],
+    "Category": "Herb"
+  }, {
+    "Name": "Lime Peel",
+    "Count": 2,
+    "Drinks": ["Rum Old-fashioned", "Limeade"],
+    "Category": "Peel"
+  }, {
+    "Name": "Drambuie",
+    "Count": 2,
+    "Drinks": ["Loch Lomond", "Rusty Nail"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Orgeat Syrup",
+    "Count": 2,
+    "Drinks": ["Planter's Punch", "Mai Tai"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Tropicana",
+    "Count": 1,
+    "Drinks": ["Malibu Twister"],
+    "Category": "Juice"
+  }, {
+    "Name": "Cardamom",
+    "Count": 3,
+    "Drinks": ["Thai Iced Coffee", "Thai Coffee", "Masala Chai"],
+    "Category": "Herb"
+  }, {
+    "Name": "Black Pepper",
+    "Count": 1,
+    "Drinks": ["Masala Chai"],
+    "Category": "Herb"
+  }, {
+    "Name": "Espresso",
+    "Count": 2,
+    "Drinks": ["Melya", "Orange Scented Hot Chocolate"],
+    "Category": "Hot drink"
+  }, {
+    "Name": "Pina Colada Mix",
+    "Count": 1,
+    "Drinks": ["Miami Vice"],
+    "Category": "Mix"
+  }, {
+    "Name": "Daiquiri Mix",
+    "Count": 1,
+    "Drinks": ["Miami Vice"],
+    "Category": "Mix"
+  }, {
+    "Name": "Absinthe",
+    "Count": 1,
+    "Drinks": ["Moranguito"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Pepsi Cola",
+    "Count": 2,
+    "Drinks": ["Mudslinger", "Smut"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Lemon-lime Soda",
+    "Count": 5,
+    "Drinks": ["Rum Cooler", "National Aquarium", "Raspberry Cooler", "Wine Cooler", "Queen Charlotte"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Oreo Cookie",
+    "Count": 1,
+    "Drinks": ["Oreo Mudslide"],
+    "Category": "Candy"
+  }, {
+    "Name": "Coconut Milk",
+    "Count": 1,
+    "Drinks": ["Pina Colada"],
+    "Category": "Lacteal"
+  }, {
+    "Name": "Pink Lemonade",
+    "Count": 1,
+    "Drinks": ["Pink Panty Pulldowns"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Cherry Liqueur",
+    "Count": 1,
+    "Drinks": ["Popped Cherry"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Raspberry Syrup",
+    "Count": 1,
+    "Drinks": ["Quaker's Cocktail"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Coffee Brandy",
+    "Count": 1,
+    "Drinks": ["Queen Bee"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Lime Vodka",
+    "Count": 1,
+    "Drinks": ["Queen Bee"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Black Sambuca",
+    "Count": 1,
+    "Drinks": ["Quick-sand"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Raspberry Vodka",
+    "Count": 1,
+    "Drinks": ["Raspberry Cooler"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Ricard",
+    "Count": 1,
+    "Drinks": ["Sazerac"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Peychaud Bitters",
+    "Count": 1,
+    "Drinks": ["Sazerac"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Curacao",
+    "Count": 1,
+    "Drinks": ["Scotch Cobbler"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Fennel Seeds",
+    "Count": 1,
+    "Drinks": ["Scottish Highland Liqueur"],
+    "Category": "Herb"
+  }, {
+    "Name": "Anisette",
+    "Count": 2,
+    "Drinks": ["Shanghai Cocktail", "Sol Y Sombra"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Blackcurrant Squash",
+    "Count": 1,
+    "Drinks": ["Snakebite And Black"],
+    "Category": "Juice"
+  }, {
+    "Name": "Cherries",
+    "Count": 1,
+    "Drinks": ["Space Odyssey"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Ouzo",
+    "Count": 2,
+    "Drinks": ["Surf City Lifesaver", "Zorbatini"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Aquavit",
+    "Count": 1,
+    "Drinks": ["Swedish Coffee"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Fresca",
+    "Count": 1,
+    "Drinks": ["Sweet Sangria"],
+    "Category": "Soft drink"
+  }, {
+    "Name": "Yukon Jack",
+    "Count": 1,
+    "Drinks": ["Texas Rattlesnake"],
+    "Category": "Alcoholic"
+  }, {
+    "Name": "Maple Syrup",
+    "Count": 1,
+    "Drinks": ["Van Vleet"],
+    "Category": "Sweetener"
+  }, {
+    "Name": "Lillet Blanc",
+    "Count": 1,
+    "Drinks": ["Vesper"],
+    "Category": "Wine"
+  }, {
+    "Name": "Limeade",
+    "Count": 1,
+    "Drinks": ["Vodka Fizz"],
+    "Category": "Fruit"
+  }, {
+    "Name": "Zima",
+    "Count": 2,
+    "Drinks": ["Zima Blaster", "Zimadori Zinger"],
+    "Category": "Beer"
+  }]

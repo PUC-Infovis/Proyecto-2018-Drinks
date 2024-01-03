@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DesInfoViz</title>
+    <meta charset='utf-8'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="tabs.js"></script>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
+      crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+      crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
+      crossorigin="anonymous"></script>
+    <script scr="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+  </head>
+
+  <body id="main">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="#">Visualización de Desinformación</a>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#tab1">
+              <span>Bubble Chart</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#tab2">
+              <span>Edge Bundling</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="body">
+      <div id="tab1" class="tab">
+        <p id="selectedIngredients">Ingredientes seleccionados: no hay ingredientes seleccionados</p>
+        <div id="drinks-body">
+          <div class="drinksPerIng">
+            <p id="drinksPerIngredient">🍸 Con los ingredientes seleccionados puedes preparar:</p>
+            <ul id="drinks-list">
+              <li id="nothing">Nada 😅</li>
+            </ul>
+          </div>
+        </div>
+        <div class='idiom1-options'>
+          <input type='button' id='reset' value='Reiniciar'>
+            <form autocomplete='off' action='/action_page.php'>
+                <div class='autocomplete' style='width:300px;'>
+                    <input id='search' type='text' placeholder='Búsqueda personalizada'>
+                </div>
+            </form>
+        </div>
+        <div class='idiom1'>
+          <ul class='legend' id='idiom1-legend'>
+            <li onclick='showCat(0)'><span class='legendline' id='legend-0'></span>Liqueurs & Distilled</li>
+            <li onclick='showCat(1)'><span class='legendline' id='legend-1'></span>Juices & Mixes</li>
+            <li onclick='showCat(2)'><span class='legendline' id='legend-2'></span>Beers & Wines</li>
+            <li onclick='showCat(3)'><span class='legendline' id='legend-3'></span>Lacteals</li>
+            <li onclick='showCat(4)'><span class='legendline' id='legend-4'></span>Soft Drinks</li>
+            <li onclick='showCat(5)'><span class='legendline' id='legend-5'></span>Veggies & Fruits</li>
+            <li onclick='showCat(6)'><span class='legendline' id='legend-6'></span>Others</li>
+            <li onclick='showCat(7)'><span class='legendline' id='legend-7'></span>Hot Drinks</li>
+            <li onclick='showCat(8)'><span class='legendline' id='legend-8'></span>Herbs & Spices</li>
+            <li onclick='showCat(9)'><span class='legendline' id='legend-9'></span>Sweets</li>
+          </ul>
+          <div class="idiom1-svg"></div>
+          <div class="idiom1-info">
+            <p id="ingredient">Ingrediente: </p>
+            <p id="amount">Utilizado en </p>
+          </div>
+        </div>
+      </div>
+      <div id="tab2" class="tab">
+        <div class="idiom2">
+          <div class="idiom2-selector form-group">
+            <label>Categoría:</label>
+            <select id="categories" class="form-control">
+              <option value="cocktail" selected="selected">cocktail</option>
+              <option value="punch / party drink">punch / party drink</option>
+              <option value="ordinary drink">ordinary drink</option>
+              <option value="soft drink / soda">soft drink / soda</option>
+              <option value="shot">shot</option>
+              <option value="cocoa">cocoa</option>
+              <option value="homemade liqueur">homemade liqueur</option>
+              <option value="beer">beer</option>
+              <option value="coffee / tea">coffee / tea</option>
+              <option value="milk / float / shake">milk / float / shake</option>
+              <option value="other/unknown">other/unknown</option>
+            </select>
+          </div>
+          <ul class="legend">
+              <li><span class="legend-ingredient"></span> Ingrediente</li>
+              <li><span class="legend-drink"></span> Bebida</li>
+          </ul>
+          <br>
+          <br>
+          <br>
+          <div class="slidecontainer">
+            <p>Rotar: <span id="rot_value"></span> </p><input type="range" min="-180" max="180" value="0" class="slider" id="rot_range">
+          </div>
+          <br><br>
+          <div class="slidecontainer">
+            <p>Tamaño letra: <span id="size_value"></span> </p><input type="range" min="10" max="18" value="11" step="0.1" class="slider" id="size_range">
+          </div>
+
+          <br>
+          <div id="option">
+            <input type="button" value="Reiniciar" id="reiniciar" />
+          </div>
+
+          <br><br>
+
+          <b>Ingredientes en común:</b><p id=comun>No hay ingredientes en común</p>
+
+
+          <div class="idiom2-svg"></div>
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h5><b>Bebida:</b></h5> <h5 class="card-title rein" id="drink0"> </h5>
+                     <b>Ingredientes:</b> <p class="card-text rein" id="ingredients0"> </p>
+                     <b>Preparación</b><p class="card-text rein" id="recipe0"> </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-sm-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h5><b>Bebida: </b></h5><h5 class="card-title rein" id="drink1"> </h5>
+                    <b>Ingredientes: </b><p class="card-text rein" id="ingredients1"> </p>
+                    <b>Preparación: </b><p class="card-text rein" id="recipe1"> </p>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="card mt-4 mb-4" style="height:220px;">
+          <div class="card-body">
+            <h5><b> Recomendaciones: </b></h5><b><h5 class="card-title"> </h5></b>
+
+            <div style="overflow:scroll; height: 150px;">
+            <p class="card-text rein" id="recomendacion"></p>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4>
+  <script src='idiom1/dataset.js' charset='utf-8'></script>
+  <script src='idiom1/bubblechart.js' charset='utf-8'></script>
+  <script src='idiom1/interaction.js' charset='utf-8'></script>
+  <script src='idiom1/autocomple.js' charset='utf-8'></script>
+  <script src='idiom2/idiom.js' charset='utf-8'></script>
+
+    <!--<footer class="container-fluid" style="height:50px;"></footer>-->
+
+  </body>
+</html>
